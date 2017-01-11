@@ -5,5 +5,8 @@
     <div ng-app=""  ng-init="person=[1,1,5,475,545]">
         <p> name is : <span ng-bind="person[3]"></span></p>
     </div>
+	<div>
+		<p>hi,hoda</p>
+	</div>
 </body>
 </html>
